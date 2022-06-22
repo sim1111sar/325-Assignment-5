@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyYelp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="filter">
+        <item>Default</item>
+        <item>Rating</item>
+        <item>Price</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
